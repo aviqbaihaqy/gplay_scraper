@@ -1,0 +1,3 @@
+net.zenius.mobile
+com.quipper.school.assignment
+com.ruangguru.livestudents
